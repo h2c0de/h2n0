@@ -2,20 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://h2n0.ca/posts/oi/</loc>
-    <lastmod>2024-02-02T04:14:54-08:00</lastmod>
+    <loc>http://h2code.ca/posts/newer/</loc>
+    <lastmod>2024-05-18T22:55:17-04:00</lastmod>
   </url><url>
-    <loc>https://h2n0.ca/</loc>
-    <lastmod>2025-03-08T08:15:11-05:00</lastmod>
+    <loc>http://h2code.ca/</loc>
+    <lastmod>2024-05-18T22:55:17-04:00</lastmod>
   </url><url>
-    <loc>https://h2n0.ca/posts/ijijij/</loc>
-    <lastmod>2025-03-08T08:15:11-05:00</lastmod>
+    <loc>http://h2code.ca/posts/new-test/</loc>
+    <lastmod>2024-05-18T22:55:17-04:00</lastmod>
   </url><url>
-    <loc>https://h2n0.ca/posts/</loc>
-    <lastmod>2025-03-08T08:15:11-05:00</lastmod>
+    <loc>http://h2code.ca/posts/hey/</loc>
+    <lastmod>2024-05-18T22:55:17-04:00</lastmod>
   </url><url>
-    <loc>https://h2n0.ca/untitled/</loc>
+    <loc>http://h2code.ca/posts/</loc>
+    <lastmod>2024-05-18T22:55:17-04:00</lastmod>
   </url><url>
-    <loc>https://h2n0.ca/tags/</loc>
+    <loc>http://h2code.ca/blog/</loc>
+  </url><url>
+    <loc>http://h2code.ca/series/</loc>
+  </url><url>
+    <loc>http://h2code.ca/tags/</loc>
   </url>
 </urlset>
